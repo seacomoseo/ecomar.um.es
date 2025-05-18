@@ -1,4 +1,5 @@
-baseURL: https://www.um.es/ecomar/
+# baseURL: https://www.um.es/ecomar/
+baseURL: https://ecomar.um.es/
 buildFuture: true
 theme: [sansoul]
 params:
