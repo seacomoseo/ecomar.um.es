@@ -3,29 +3,29 @@ icons:
   sharp: true
   emojis: false
   play: youtube-iframe
-  up: ''
+  up: chevrons-up
   down: ''
   left: ''
   right: ''
 fonts:
   google: true
   base:
-    family: Montserrat
+    family: IBM Plex Sans
     weight: 400
-    bold: 0
+    bold: 700
     italic: false
     line_height: 1.25
   cursive:
-    family: Dancing Script
+    family: IBM Plex Sans
     weight: 400
     bold: 0
-    italic: false
+    italic: true
     line_height: 1.25
     size: 1
     top: 0
   title:
-    family: Montserrat
-    weight: 800
+    family: IBM Plex Sans
+    weight: 900
     bold: 0
     italic: false
     line_height: 1.25
@@ -34,7 +34,7 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#8d1300'
     light: ''
     dark: ''
     contrast:
@@ -50,7 +50,7 @@ colors:
       in: true
       text: true
   cta:
-    color: '#fe5f55'
+    color: '#005164'
     light: ''
     dark: ''
     contrast:
@@ -61,15 +61,15 @@ colors:
     white: '#fff'
     light: '#eee'
     gray: '#767676'
-    dark: '#282525'
+    dark: '#002028' #282525
     black: '#000'
 rounded:
-  radius: 0.33
-  chamfer: true
+  radius: 0.25
+  chamfer: false
 buttons:
   sides_round: false
   dot_circle: false
-  deep: true
+  deep: false
   outline: false
   font:
     type: title
@@ -85,6 +85,6 @@ inputs:
 shadow:
   left: 0.15
   top: 0.15
-  blur: 0
+  blur: 0.15
   color: black
   alpha: 0.85

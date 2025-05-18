@@ -32,14 +32,14 @@ boxes:
     #   - subtitle: MAMA MIA
   - md: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
-  - image: base/poster.png
+  - image: base/poster.jpg
     inset: true
     border: cta
 - title: Ola k ase
   subtitle: Agámoslo!
   underline: true
   md: |
-    Lorem ipsum dolor sit amet, [consectetur](base/poster.png "[nofollow]") adipiscing elit, sed do eiusmod tempor.
+    Lorem ipsum dolor sit amet, [consectetur](base/poster.jpg "[nofollow]") adipiscing elit, sed do eiusmod tempor.
 - title: Ola k ase
   subtitle: Agámoslo!
   md: |

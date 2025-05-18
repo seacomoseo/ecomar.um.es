@@ -16,9 +16,4 @@ tpl:
     uppercase: true
     alpha: .7
     parallax: fix
-    div: curve-side
-    div_x: false
-    div_y: false
   - color: white
-    div_x: true
-    div_y: true

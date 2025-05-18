@@ -1,17 +1,14 @@
 name: Cabecera
-hanchor: SanSoul Hugo Theme
-color: main-dark
-bg: base/poster.png
+color: dark
+bg: fondo.jpg
 full: true
 boxes:
-- image: base/logo.svg
+- image: base/icon.png
   fit: .125
   fit_vs: .5
-- title: SanSoul Hugo Theme
+- title: ECOMAR
   hn: p
   hs: 0
-  subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
+  subtitle: Ecología Marina y Conservación
   md: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-    [[:plus: Más]](#nosotros)
+    Te damos la bienvenida a ECOMAR, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).

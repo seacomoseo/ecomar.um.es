@@ -1,62 +1,60 @@
 ---
 slug: inicio
 title: Inicio
-image: base/poster.png
-summary: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
+image: base/poster.jpg
+summary: Te damos la bienvenida a ECOMAR, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
 translationKey: home
-seo: ''
-description: llll➤ SanSoul es un tema de Hugo con alma para webs de servicios ✅ por lorensansol ☎️ 123 456 789.
+seo: 'ECOMAR: Ecología Marina y Conservación'
+description: Te damos la bienvenida a ECOMAR, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
 
 tpl:
   sections:
   - file: _header
-  - file: nosotros
-  - file: servicios
-    modals:
-    - file: ejemplo
-  - file: proceso
-  - file: fotos
-  - file: noticias
-  - file: faq
-  - file: resenas
-  - file: contacto
-  - file: mapa
+  # - file: nosotros
+  # - file: servicios
+  #   modals:
+  #   - file: ejemplo
+  # - file: proceso
+  # - file: fotos
+  # - file: noticias
+  # - file: faq
+  # - file: resenas
+  # - file: contacto
+  # - file: mapa
 
 base: organization
 organization:
   types:
-  - LocalBusiness
   - Organization
   names:
-  - Tema SanSoul de Hugo EJEMPLO
-  - SanSoul
-  description: ''
-  legal: null
-  nif: null
-  email: null
-  logo: base/poster.svg
+  - Ecología Marina y Conservación
+  - ECOMAR
+  - Marine Ecology and Conservation
+  - MEC
+  description: Te damos la bienvenida a ECOMAR, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
+  # legal: null
+  # nif: null
+  # email: null
+  logo: base/icon.svg
   images:
-  - base/poster.png
+  - base/poster.jpg
   social:
-  - https://www.facebook.com/QuantumFracture
-  - https://www.instagram.com/quantumfracture/
-  - https://g.page/r/CQI3T3wmeAB6EBM
-  phones:
-  - 123456789
-  - +34 987 654 321
+  - https://www.facebook.com/MECResearch
+  - https://portalinvestigacion.um.es/grupos/31934/detalle
+  # phones: []
   address:
-    name: Sea Como SEO
-    street: Ronda de Levante, 1
-    pc: '30008'
+    name: Universidad de Murcia
+    street: C. Campus Universitario, 11
+    pc: '30100'
     locality: Murcia
     region: Murcia
     country: ES
-    geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-    link: https://g.page/r/CQI3T3wmeAB6EBM
-  areas:
-  - Región de Murcia
-  - Internacional
-  - Online
+    geo: '{"type":"Point","coordinates":[-1.1693800,38.0187256]}'
+    link: ''
+  # areas:
+  # - Región de Murcia
+  # - Internacional
+  # - Online
   schedule:
   - days:
     - monday
@@ -64,28 +62,11 @@ organization:
     - wednesday
     - thursday
     - friday
-    hours:
-    - open: 9:00
-      close: 14:00
-    - open: 17:00
-      close: 20:00
-  - days:
-    - saturday
-    # - sunday
-    hours:
-    - open: 9:00
-      close: 13:00
-  prices: €€
-  services:
-  - title: Diseño Web
-    description: null
-    price: 800.00
-    area: Internacional
-  - title: SEO
-    description: null
-    price: 250.00
-    area: Internacional
-  - title: SEM
-    description: Descripción de ejemplo
-    area: Internacional
+    # hours:
+    # - open: 9:00
+    #   close: 14:00
+    # - open: 17:00
+    #   close: 20:00
+  # prices: €€
+  # services: []
 ---

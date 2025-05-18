@@ -9,9 +9,9 @@ tpl:
     transparent: true
     size: sm
     es:
-      image: base/logo.svg
-      title: SanSoul
-      subtitle: Hugo Theme
+      image: base/icon.png
+      title: Ecomar
+      subtitle: Ecología Marina y Conservación
   callnow: {}
   section:
   - size: sm
