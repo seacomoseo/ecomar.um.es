@@ -96,10 +96,10 @@
   - Add `DNS Records` copied from Cloudflare Pages to Domain gestor:
     - From: `ecomar.um.es`
       DNS Record: `CNAME`
-      To: `ecomar.pages.dev`
+      To: `ecomarumes.pages.dev`
     - From: `www`
       DNS Record: `CNAME`
-      To: `ecomar.pages.dev`
+      To: `ecomarumes.pages.dev`
   - `Activate domain` (if `Begin DNS transfer` end)
   - Repeat with `www.ecomar.um.es`
   - ...........................................................
