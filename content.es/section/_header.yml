@@ -1,14 +1,12 @@
 name: Cabecera
-color: dark
 bg: fondo.jpg
-full: true
+# full: true
+size: xs
 boxes:
 - image: base/icon.png
-  fit: .125
-  fit_vs: .5
-- title: ECOMAR
-  hn: p
-  hs: 0
-  subtitle: Ecología Marina y Conservación
+  # fit: .25
+  # fit_vs: .5
+- title: Ecología Marina y Conservación
+  hs: 3
   md: |
-    Te damos la bienvenida a ECOMAR, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
+    Te damos la bienvenida a **MEC**, el grupo de investigación de José Antonio García Charton de la [Facultad de Biología](http://www.um.es/web/biologia/) de la [Universidad de Murcia](http://www.um.es/) (España)

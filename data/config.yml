@@ -3,6 +3,7 @@ langs:
   title: Ecomar
   description: ''
   google_analytics: G-F1DT0ZTK3T
+  # main_organization: /ecomar/
 cms:
   logo: base/icon.png
 others:

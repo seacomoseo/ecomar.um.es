@@ -1,10 +1,19 @@
 name: Noticias
 title: Noticias
-subtitle: Novedades
-icon: rss
-list:
-  type: all
-  max: 12
+params:
+- page: noticias
+  box: boxes
+# list:
+#   type: all
+#   max: 12
 box:
   cols: 4
+  color: invert
+  inset: true
+  ratio: 16/9
+  hs: 6
+  align: left
+  md: hide
+  label: Ver más
+  button: hide
   slider: true

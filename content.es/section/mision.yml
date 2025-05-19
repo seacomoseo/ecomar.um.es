@@ -1,0 +1,18 @@
+name: Misión y objetivos
+title: Misión y objetivos
+# subtitle: Lorem ipsum dolor sit amet
+# icon: circle-info
+box:
+  cols: 2
+  align_y: center
+boxes:
+- order: 2
+  params:
+  - page: mision.image
+    box: image
+  parallax: box
+- order: 1
+  align: left
+  params:
+  - page: mision.md
+    box: md

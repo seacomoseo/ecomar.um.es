@@ -1,0 +1,54 @@
+name: Acerca del grupo
+title: Acerca del grupo
+subtitle: Miembros
+# icon: circle-info
+box:
+  gap_vs: 2
+boxes:
+
+- boxes:
+  - title: Actuales
+  - box:
+      cols: 3
+      color: invert
+      inset: true
+      ratio: 1
+      hs: 5
+      # slider: true
+    params:
+    - page: grupo.actuales
+      box: boxes
+  - box:
+      cols: 3
+      color: invert
+      hs: 6
+      # slider: true
+    params:
+    - page: grupo.actuales_simples
+      box: boxes
+
+- boxes:
+  - title: Visitantes
+  - box:
+      cols: 3
+      color: invert
+      inset: true
+      ratio: 1
+      hs: 5
+      # slider: true
+    params:
+    - page: grupo.visitantes
+      box: boxes
+
+- boxes:
+  - title: Anteriores
+  - box:
+      cols: 3
+      color: invert
+      inset: true
+      ratio: 1
+      hs: 5
+      # slider: true
+    params:
+    - page: grupo.anteriores
+      box: boxes

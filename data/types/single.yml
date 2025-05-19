@@ -2,6 +2,8 @@ title: Únicas
 order: 0
 base: single
 tpl:
+  back:
+    color: dark
   menu:
     logo: false
     sticky: auto
@@ -12,8 +14,8 @@ tpl:
     show: auto
   section:
   - size: lg
-    underline: true
-    uppercase: true
     alpha: .7
-    parallax: fix
+    div: wavy-jump
+    div_x: false
   - color: white
+    div_x: true
