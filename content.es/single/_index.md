@@ -2,10 +2,10 @@
 slug: inicio
 title: Inicio
 image: base/poster.jpg
-summary: Te damos la bienvenida a ECOMAR, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
+summary: Te damos la bienvenida a MEC, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
 translationKey: home
-seo: 'ECOMAR: Ecología Marina y Conservación'
-description: Te damos la bienvenida a ECOMAR, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
+seo: 'MEC: Ecología Marina y Conservación'
+description: Te damos la bienvenida a MEC, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
 
 tpl:
   sections:
@@ -89,7 +89,7 @@ noticias:
     label: 08/02/2025
 - image: https://img2.rtve.es/a/16348991/?h=320
   title: El papel de la mujer en el sector de la pesca
-  md: El pasado 6 de diciembre, el programa "Españoles en la mar" de Radio Exterior de España emitió un monográfico sobre "El papel de la mujer en el sector de la pesca", en el que se habló de nuestro proyecto GuitarProtect con una entrevista a nuestra compañera María Pozo, a partir del minuto -28:40 (es decir, transcurridos unos 22 y pico minutos de programa), podéis escucharlo en el siguiente podcast:...
+  md: El pasado 6 de diciembre, el programa "Españoles en la mar" de Radio Exterior de España emitió un monográfico sobre "El papel de la mujer en el sector de la pesca", en el que se habló de nuestro proyecto GuitarProtect con una entrevista a nuestra compañera María Pozo, a partir del minuto -28:40 (es decir, transcurridos unos 22 y pico minutos de programa), podéis escucharlo en el siguiente podcast...
   link: https://www.rtve.es/play/audios/espanoles-en-la-mar/espanoles-mar-papel-mujer-sector-pesca/16348991/
   tags:
   - icon: calendar
@@ -120,7 +120,7 @@ grupo:
 
       <details>
         <summary>Detalles</summary>
-        Obtuve mi doctorado en biología en la Universidad de Murcia, España (1999). Investigador post-doctoral en el CBETM (Centro de Biología y Ecología Tropical y Méditerranéenne – UMR 5244) de la EPHE-CNRS en Perpignan (Francia) bajo la supervisión del Dr. René Galzin (2001-2003) . Me convertí en profesor de ecología en la Universidad de Murcia en 2008. Mi investigación se centra en la ecología y conservación de los peces arrecifales, con especial énfasis en la ecología de las áreas marinas protegidas como herramienta para la gestión de la pesca y la conservación de la biodiversidad, y en la respuesta funcional de las comunidades a impactos antrópicos. Más recientemente, trabajo además, en la interfaz socio-ecológica de la gestión y la gobernanza de los recursos marinos, y en los efectos del cambio climático en las comunidades y ecosistemas marinos. He participado en numerosos proyectos de investigación a nivel nacional, europeo e internacional.
+        Obtuve mi doctorado en biología en la Universidad de Murcia, España (1999). Investigador post-doctoral en el CBETM (Centro de Biología y Ecología Tropical y Méditerranéenne - UMR 5244) de la EPHE-CNRS en Perpignan (Francia) bajo la supervisión del Dr. René Galzin (2001-2003) . Me convertí en profesor de ecología en la Universidad de Murcia en 2008. Mi investigación se centra en la ecología y conservación de los peces arrecifales, con especial énfasis en la ecología de las áreas marinas protegidas como herramienta para la gestión de la pesca y la conservación de la biodiversidad, y en la respuesta funcional de las comunidades a impactos antrópicos. Más recientemente, trabajo además, en la interfaz socio-ecológica de la gestión y la gobernanza de los recursos marinos, y en los efectos del cambio climático en las comunidades y ecosistemas marinos. He participado en numerosos proyectos de investigación a nivel nacional, europeo e internacional.
 
         [hide](#)
         {.display-none}
@@ -128,7 +128,7 @@ grupo:
     # accordions:
     # - title: Detalles
     #   md: |
-    #     Obtuve mi doctorado en biología en la Universidad de Murcia, España (1999). Investigador post-doctoral en el CBETM (Centro de Biología y Ecología Tropical y Méditerranéenne – UMR 5244) de la EPHE-CNRS en Perpignan (Francia) bajo la supervisión del Dr. René Galzin (2001-2003) . Me convertí en profesor de ecología en la Universidad de Murcia en 2008. Mi investigación se centra en la ecología y conservación de los peces arrecifales, con especial énfasis en la ecología de las áreas marinas protegidas como herramienta para la gestión de la pesca y la conservación de la biodiversidad, y en la respuesta funcional de las comunidades a impactos antrópicos. Más recientemente, trabajo además, en la interfaz socio-ecológica de la gestión y la gobernanza de los recursos marinos, y en los efectos del cambio climático en las comunidades y ecosistemas marinos. He participado en numerosos proyectos de investigación a nivel nacional, europeo e internacional.
+    #     Obtuve mi doctorado en biología en la Universidad de Murcia, España (1999). Investigador post-doctoral en el CBETM (Centro de Biología y Ecología Tropical y Méditerranéenne - UMR 5244) de la EPHE-CNRS en Perpignan (Francia) bajo la supervisión del Dr. René Galzin (2001-2003) . Me convertí en profesor de ecología en la Universidad de Murcia en 2008. Mi investigación se centra en la ecología y conservación de los peces arrecifales, con especial énfasis en la ecología de las áreas marinas protegidas como herramienta para la gestión de la pesca y la conservación de la biodiversidad, y en la respuesta funcional de las comunidades a impactos antrópicos. Más recientemente, trabajo además, en la interfaz socio-ecológica de la gestión y la gobernanza de los recursos marinos, y en los efectos del cambio climático en las comunidades y ecosistemas marinos. He participado en numerosos proyectos de investigación a nivel nacional, europeo e internacional.
   - image: grupo/actuales/maria-pozo-montoro.jpg
     title: María Pozo Montoro
     subtitle: Doctoranda
@@ -174,16 +174,16 @@ grupo:
     subtitle: Investigadora contratada
     md: naniolivaresmartinez@gmail.com 
   - title: Ana López Martos
-    subtitle: Estudiante de máster – TFM
+    subtitle: Estudiante de máster - TFM
     md: ana.l.m1@um.es 
   - title: Carlota Vegas Serrano
-    subtitle: Estudiante de máster – TFM
+    subtitle: Estudiante de máster - TFM
     md: carlotaisabel.vegass@um.es 
   - title: Mª José Coello
-    subtitle: Estudiante de máster – TFM
+    subtitle: Estudiante de máster - TFM
     md: mariajose.coello@um.es 
   - title: Mario Chico Cos
-    subtitle: Estudiante de máster – TFM
+    subtitle: Estudiante de máster - TFM
     md: m.chicocos@um.es 
   # Doctorando “externos”
   - title: Carlos José García Alonso
@@ -195,10 +195,10 @@ grupo:
 
   visitantes:
   - title: Sveva Veronesi
-    subtitle: estudiante de máster – TFM
+    subtitle: estudiante de máster - TFM
     md: sveva.veronesi@studenti.unipd.it 
   - title: Alexis Malolepszy
-    subtitle: estudiante de máster – TFM
+    subtitle: estudiante de máster - TFM
     md: a.f.s.malolepszy@student.vu.nl 
   - title: Munique dos Santos
     subtitle: estudiante de doctorado
@@ -315,7 +315,7 @@ proyectos:
   - icon: circle-euro
     label: 50 000,00 €
   - icon: user
-    label: Pedro Noguera Méndez & María Semitiel García
+    label: 'Pedro Noguera Méndez & María Semitiel García'
   - icon: link
     label: '[Financiación](https://portalinvestigacion.um.es/proyectos/585393/detalle)'
 - title: 'Centinelas del Mar: ciencia ciudadana para el seguimiento de los efectos del cambio climático sobre la biodiversidad marina'
@@ -494,7 +494,7 @@ proyectos:
   ratio: 16/9
 - title: Ciencia ciudadana y participación en OGMAR+
   subtitle: CIPAO+
-  md: ThinkInAzul – Plan Complementario de I+D+i en Ciencias Marinas – 2024
+  md: ThinkInAzul - Plan Complementario de I+D+i en Ciencias Marinas - 2024
   tags:
   - icon: location-dot
     label: Universidad de Murcia
@@ -580,7 +580,7 @@ contratos:
   - icon: calendar
     label: 2016-2019
   - icon: user
-    label: Miguel Ángel Esteve Selma & José Antonio García Charton
+    label: 'Miguel Ángel Esteve Selma & José Antonio García Charton'
 - title: Pescados con Arte
   tags:
   - icon: location-dot
@@ -708,10 +708,901 @@ contratos:
   - icon: user
     label: José Antonio García Charton
 
-# publicaciones:
-# - title: Holi
-#   tags:
-#   - icon: location-dot
-#     label: Comunidad Autónoma de la Región de Murcia
+publicaciones:
+- title: Estructura genética de las poblaciones de Diplodus sargus en el SE peninsular en relación con la protección de áreas marinas
+  subtitle: Mercedes González Wangüemert
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: 14 de julio de 2004
+- title: Estudio faunístico y ecológico de los equinodermos del archipiélago de Cabo Verde
+  subtitle: Laura de Entrambasaguas Monsell
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: 15 de julio de 2008
+- title: 'Evaluación del potencial de exportación larvaria y la conectividad en Áreas Marinas Protegidas: Bases ecológicas e implicaciones para la gestión de la pesca'
+  subtitle: Fabiana Cézar Félix
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: 4 de diciembre de 2012
+- title: Historia natural, ecología y movilidad de tres especies de meros en la Reserva Marina de Cabo de Palos - Islas Hormigas
+  subtitle: Carlos Werner Hackradt
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: 4 de diciembre de 2012
+- title: 'Connectivity of Mediterranean reef fish populations and MPA design: the case of the saddled sea bream, Oblada melanura [Linnaeus, 1758] in the Western Mediterranean Sea'
+  subtitle: Antonio Calò
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: 13 de julio de 2016
+- title: 'Effects of protection on predatory fish populations: ecological mechanisms and implications for management'
+  subtitle: Irene Rojo Moreno
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: 22 de noviembre de 2019
+- title: 'Integrative approaches to support coastal marine management: changes in sediment discharge and participatory habitat mapping'
+  subtitle: Daniel Mateos Molina
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: 10 de diciembre de 2020
+- title: 'Understanding activity patterns of aquatic animals through acoustic telemetry: application to the marine fish species Epinephelus marginatus (Lowe 1834)'
+  subtitle: José Manuel Pereñíguez López
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: 13 de mayo de 2021
+- title: Bases ecológicas para la gestión sostenible de la acuicultura marina
+  subtitle: José Miguel Gutiérrez Ortega
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral en realización'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: En realización
+- title: Biología, ecología y pesquería del chanquete (Aphia minuta) en el litoral murciano
+  subtitle: Carlos J. García Alonso
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral en realización'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: En realización
+- title: Análisis territorial y propuesta de gestión integrada de los espacios naturales protegidos, costeros y marinos, de España
+  subtitle: Amelia Cánovas Muñoz
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral en realización'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Economía y Empresa
+  - icon: calendar
+    label: En realización
+- title: Factores que regulan las variaciones espacio-temporales de las praderas de Posidonia oceanica (L.) Delile a gran escala
+  subtitle: Pedro Clemente Navarro Martínez
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral en realización'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: En realización
+- title: 'Fases tempranas del ciclo de vida de meros y otros peces marinos: dispersión larvaria, conectividad y reclutamiento'
+  subtitle: Víctor Orenes Salazar
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral en realización'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: En realización
+- title: Biología y ecología de guitarras comunes y otros elasmobranquios costeros
+  subtitle: María Pozo Montoro
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesis Doctoral en realización'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: En realización
+- title: 'Estudio de la fauna de equinodermos (Echinodermata) del archipiélago de Cabo Verde: escalas de variabilidad espacial y factores que explican su distribución'
+  subtitle: Laura de Entrambasaguas Monsell
+  tags:
+  - icon: tag
+    label: 'Tipo: Tesina'
+  - icon: location-dot
+    label: Universidad de Murcia, Facultad de Biología
+  - icon: calendar
+    label: 15 de julio de 2003
+- title: Análisis comparativo de la abundancia de peces y erizos (Paracentrotus lividus) en la Reserva Marina de Cabo de Palos - Islas Hormigas (Murcia, Mediterráneo SW)
+  subtitle: Blanca Carreño Aguirre
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Posgrado “Biología de Peces” de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2006-2007
+- title: Impacto del vertido de aguas residuales de Cala Reona sobre el poblamiento de peces de fondo rocoso
+  subtitle: Jorge Treviño Otón
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: D.E.A. Doctorado “Biología de Peces” de la Universidad de Murcia
+  - icon: calendar
+    label: Bienio 2006-2008
+- title: Efecto del alga invasora Caulerpa racemosa (Forsskål) en el poblamiento de peces demersales del área de Cabo Tiñoso (SE España)
+  subtitle: José Martínez Garrido
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Ángel Pérez Ruzafa'
+  - icon: location-dot
+    label: Máster en "Análisis y Gestión de Ecosistemas Mediterráneos" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2008-2009
+- title: 'Mecanismos de fotoaclimatación del alga invasora Caulerpa racemosa var. cylindracea: implicaciones de la disponibilidad de luz en la interacción con Posidonia oceanica'
+  subtitle: Jaime Bernardeau Esteller
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Juan Manuel Ruiz Fernández'
+  - icon: location-dot
+    label: Máster en "Análisis y Gestión de Ecosistemas Mediterráneos" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2008-2009
+- title: Distribución, abundancia y relaciones con el hábitat y con potenciales competidores de Percnon gibbesi (H. Milne-Edwards, 1853) en la reserva marina de Cabo de Palos - Islas Hormigas y áreas adyacentes
+  subtitle: Aaron Miguel Sanchis Martínez
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Máster en "Análisis y Gestión de Ecosistemas Mediterráneos" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2009-2010
+- title: Servicios ambientales, un cambio de perspectiva en la gestión y conservación de ecosistemas marinos de la Región de Murcia
+  subtitle: Amelia Cánovas Muñoz
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutora: Concepción Marcos Diego'
+  - icon: location-dot
+    label: Máster en"Análisis y Gestión de Ecosistemas Mediterráneos" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2010-2011
+- title: Regulación de la pesca marítima de recreo en áreas marinas protegidas
+  subtitle: José Antonio Martínez Rodríguez
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Máster en "Gestión de Recursos Pesqueros y Acuicultura" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2010-2011
+- title: Papel del I.E.O. en la investigación y gestión de recursos pesqueros y áreas marinas protegidas
+  subtitle: Belén López-Rubio Morón
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Máster en "Gestión de Recursos Pesqueros y Acuicultura" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2010-2011
+- title: Evaluación ecológica rápida del arrecife de coral de la isla de Man Nai (Tailandia)
+  subtitle: Susana Alegre Morales
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Máster en "Gestión de Recursos Pesqueros y Acuicultura" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2010-2011
+- title: 'Evaluación de la actividad del buceo recreativo en la reserva marina de Cabo Palos - Islas Hormigas mediante modelos lineales generalizados mixtos: Myriapora truncata como especie indicadora del impacto'
+  subtitle: Cristina González Andrés
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: David V. Conesa Guillén'
+  - icon: location-dot
+    label: 'Máster en "Bioestadística" de la Universidad de Valencia'
+  - icon: calendar
+    label: Curso 2011-2012
+- title: Efectos a largo plazo de la reserva marina de Cabo de Palos - Islas Hormigas (Murcia, España) sobre la pesca artesanal
+  subtitle: Miguel Romano Lorenzi
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Ángel Pérez Ruzafa'
+  - icon: location-dot
+    label: Máster en "Gestión de Recursos Pesqueros y Acuicultura" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2012-2013
+- title: "La proliferación del coral invasor Oculina patagonica (De Ángelis D'Ossat, 1908) en el litoral murciano: posible influencia de la protección pesquera"
+  subtitle: Adrián Aguilar Rodríguez
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Máster en "Gestión de Recursos Pesqueros y Acuicultura" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2014-2015
+- title: La gorgonia blanca (Eunicella singularis, Esper 1794) como indicadora de perturbaciones mecánicas y ambientales en la reserva marina de Cabo de Palos- Islas Hormigas
+  subtitle: José Manuel Pereñíguez López
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Antonio Calò'
+  - icon: location-dot
+    label: Máster en "Gestión de la Biodiversidad en Ambientes Mediterráneos" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2014-2015
+- title: Estado de conservación de los arrecifes de Dendropoma lebeche en el parque regional de Cabo Cope y Puntas de Calnegre (Murcia)
+  subtitle: María Alcaraz Marín
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Máster en "Gestión de la Biodiversidad en Ambientes Mediterráneos" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2015-2016
+- title: Spatial distribution of recreational fishing effort around a marine protected area in the coast of Murcia (Spain, SW Mediterranean)
+  subtitle: Maria Sole Codognotto Capuzzo
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutora: Carlota Mazzoldi'
+  - icon: location-dot
+    label: Università Degli Studi di Padova (Italia)
+  - icon: calendar
+    label: Curso 2015-2016
+- title: 'Dinámica temporal de las capturas por pesca artesanal en el litoral murciano: influencia de la reserva marina de Cabo de Palos - Islas Hormigas'
+  subtitle: Ramón Hernández Andreu
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Máster en "Gestión de la Biodiversidad en Ambientes Mediterráneos" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2015-2016
+- title: 'Citizen Science in Mediterranean MPAs: monitoring on invasive coral and sea urchins with recreational divers'
+  subtitle: Francesca Fuzio
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Carlo Cerrano'
+  - icon: location-dot
+    label: Università Politecnica delle Marche - Ancona (Italia)
+  - icon: calendar
+    label: Curso 2016-2017
+- title: Contribution of recreational scuba diving activity in the managerial measures of the Cabo de Palos - Islas Hormigas marine protected area
+  subtitle: Chiara Terranova
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Carlo Cerrano'
+  - icon: location-dot
+    label: Università Politecnica delle Marche - Ancona (Italia)
+  - icon: calendar
+    label: Curso 2016-2017
+- title: Shifting baselines in Mediterranean artisanal fisheries
+  subtitle: Pedro Cardoso Leitão
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutora: Rita Pina Vasconcelos'
+  - icon: location-dot
+    label: Universidade de Lisboa (Portugal)
+  - icon: calendar
+    label: Curso 2016-2017
+- title: Larval dispersal patterns in the Dusky Grouper (Epinephelus marginatus Lowe 1834) between marine protected areas along the southeastern Iberian coast
+  subtitle: Víctor Orenes Salazar
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Antonio Calò'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2017-2018
+- title: 'Cogestión de pesquerías artesanales: el caso del chanquete (Aphia minuta) en la Región de Murcia'
+  subtitle: Elena Meroño Martínez
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Máster en "Gestión de Recursos Pesqueros y Acuicultura" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2018-2019
+- title: Revisión bibliográfica de la biología, ecología y estado de conservación de Oculina patagonica (De Angelis D’Ossat 1908)
+  subtitle: Victoria Cabrera Cazorla
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2019-2020
+- title: Influencia de los aportes terrígenos de ramblas semiáridas sobre el crecimiento y producción de las praderas de Posidonia oceanica (L.) Delile en un contexto de cambio climático
+  subtitle: Pedro Clemente Navarro Martínez
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Juan Manuel Ruiz Fernández'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2019-2020
+- title: Poblamiento de peces mesofóticos en áreas marinas protegidas mediterráneas
+  subtitle: Antonio Ortolano Muñoz
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2020-2021
+- title: 'Efectos de la protección sobre las relaciones entre el poblamiento de peces con el hábitat: buscando los límites de la capacidad de carga'
+  subtitle: David Riquelme Moya
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Ángel Pérez Ruzafa'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2020-2021
+- title: Comparative immunological analysis of catfishes (Scyliorhinidae, Carcharhiniformes, Elasmobranchii) in the southeastern Iberian peninsular coast
+  subtitle: Claudio Gargano
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutores: Alberto Cuesta Peñafiel & Salvatrice Vizzini'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2021-2022
+- title: La participación pública en la gobernanza y gestión de los Espacios Marinos Protegidos en España
+  subtitle: Celia Guijarro Serrano
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutora: María Semitiel García'
+  - icon: location-dot
+    label: Máster en "Gestión de Recursos Pesqueros y Acuicultura" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2021-2022
+- title: Poblaciones de Astroides calycularis en arrecifes rocosos de Sicilia
+  subtitle: Silvia Sánchez Segarra
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Antonio Calò'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2021-2022
+- title: La pesca de elasmobranquios en la Región de Murcia
+  subtitle: Carmita Isabel Silva Molina
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Máster en "Gestión de Recursos Pesqueros y Acuicultura" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2022-2023
+- title: A Preliminary Study on the Distribution of Recreational Spearfishing Areas and Targeted Species in the region of Murcia, Spain
+  subtitle: Giulia Lucido
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutores: Leonardo Venerus & Antonio Calò'
+  - icon: location-dot
+    label: 'Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia'
+  - icon: calendar
+    label: Curso 2022-2023
+- title: El poblamiento de peces de arrecifes mesofóticos en el entorno del puerto de Cartagena
+  subtitle: Riccardo Nanni
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Antonio Calò'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2022-2023
+- title: Efectos de las olas de calor marinas sobre la población de gorgonia roja (Paramuricea clavata) en la reserva marina de Cabo de Palos - Islas Hormigas
+  subtitle: Encarnación Olivares
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Víctor Orenes Salazar'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2023-2024
+- title: Evolución temporal y blanqueamiento de Oculina patagonica en el litoral murciano
+  subtitle: Elena Raia
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Silvia Sánchez Segarra'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2023-2024
+- title: Estudio multidisciplinar de la dinámica temporal de la exportación de biomasa desde la reserva marina de Cabo de Palos - Islas Hormigas
+  subtitle: Sergio Serretta
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Silvia Sánchez Segarra'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2023-2024
+- title: La pesca de pulpo (Octopus vulgaris) en el litoral andaluz
+  subtitle: Francisco Acosta Cifuentes
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutora: Sámar Saber Rodríguez'
+  - icon: location-dot
+    label: Máster en "Gestión de Recursos Pesqueros y Acuicultura" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2023-2024
+- title: La participación pública en planes de gestión de espacios marinos protegidos
+  subtitle: José Luis de la Rocha Ferrero
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutora: María Semitiel García'
+  - icon: location-dot
+    label: Máster en "Gestión de Recursos Pesqueros y Acuicultura" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2023-2024
+- title: Cambio multidecadal en la taxocenosis de nudibranquios en la reserva marina de Cabo de Palos - Islas Hormigas
+  subtitle: Agustina Bernabéu Hernández
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutores: José Templado y Mónica Gutiérrez López'
+  - icon: location-dot
+    label: Máster en "Zoología" de la Universidad Complutense de Madrid
+  - icon: calendar
+    label: Curso 2023-2024
+- title: Distribución de las áreas de pesca e identificación de especies objetivo de la pesca recreativa con línea desde embarcación en el litoral de la Región de Murcia
+  subtitle: Lucía Verdú Muñoz
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Leonardo Venerus'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2023-2024
+- title: La pesca de la anguila europea en el Mar Menor
+  subtitle: Mario Chico Cos
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: location-dot
+    label: Máster en "Gestión de Recursos Pesqueros y Acuicultura" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2023-2024 (en realización)
+- title: Reglas y normas de la pesca artesanal en la costa de la Región de Murcia
+  subtitle: Ana López Martos
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutora: Irene Pérez Ibarra'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2024-2025 (en realización)
+- title: Desarrollo de un protocolo de identificación semi-automatizada de especies características en hábitats bentónicos mediante IA
+  subtitle: Mª José Coello
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutora: Ana Muñoz Vera'
+  - icon: location-dot
+    label: Máster en "Gestión de Recursos Pesqueros y Acuicultura" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2024-2025 (en realización)
+- title: La pesca recreativa en la costa siciliana
+  subtitle: Carlota Vegas Serrano
+  tags:
+  - icon: tag
+    label: 'Tipo: TFM/DEA'
+  - icon: user
+    label: 'Co-tutor: Antonio Calò'
+  - icon: location-dot
+    label: Máster en "Áreas Protegidas, Recursos Naturales y Biodiversidad" de la Universidad de Murcia
+  - icon: calendar
+    label: Curso 2024-2025 (en realización)
+- title: 'Proceso de colonización del arrecife artificial de Cala Blanca (Aguilas): comparación con fondos rocosos naturales cercanos'
+  subtitle: Inma García Seligrat
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2005-2006
+- title: Aplicabilidad de los criterios UICN para proteger especies de peces marinos
+  subtitle: Julia Ávila Jiménez
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad Autónoma de Madrid
+  - icon: calendar
+    label: Curso 2006-2007
+- title: Impacto del vertido de aguas residuales de Cala Reona en el poblamiento de peces de fondos rocosos
+  subtitle: Jorge Treviño Otón
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutor: Ángel Pérez Ruzafa'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2007-2008
+- title: Dispersión de especies termófilas de peces litorales en el Mediterráneo
+  subtitle: Almudena Cánovas Molina
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutor: Ángel Pérez Ruzafa'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2008-2009
+- title: 'Regreso al futuro: cambios en la percepción y abundancia de las especies de interés comercial en la reserva marina de Cabo de Palos - Islas Hormigas'
+  subtitle: Eduardo Morcillo Buendía
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutor: Ángel Pérez Ruzafa'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2009-2010
+- title: 'Mecanismos de participación pública en la gestión de áreas marinas protegidas: análisis comparativo de las reservas de Cedeira (Galicia) y Cabo de Palos - Islas Hormigas (Murcia)'
+  subtitle: Alba Martos Losada
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2010-2011
+- title: Evaluación de la exposición a elementos inorgánicos (Zn, As, Se y Cd) en mero común (Epinephelus marginatus) y falso abadejo (Epinephelus costae) de la reservamarina de Cabo de Palos - Islas Hormigas
+  subtitle: Carmen Rosario Ruiz Olivares
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutor: Miguel Motas Guzmán'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2012-2013
+- title: Efectividad de diferentes tipos de nasas para la captura de meros y otras especies de peces litorales en una reserva marina mediterránea
+  subtitle: Ramón Hernández Andreu
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutor: Carlos Werner Hackradt'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2013-2014
+- title: Evaluación de la exposición a elementos inorgánicos (Fe, Cu, Pb y Hg) en merocomún (Epinephelus marginatus) y falso abadejo (Epinephelus costae) de la reservamarina de Cabo de Palos - Islas Hormigas
+  subtitle: José Manuel Pereñíguez López
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutor: Miguel Motas Guzmán'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2013-2014
+- title: Conectividad genética entre poblaciones de post-larvas de Mullus barbatus (Linnaeus,1758) en el suroeste del mar Mediterráneo
+  subtitle: Raquel Torres Cardenal
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutora: Delphine Rocklin & Irene Muñoz Gabaldón'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2014-2015
+- title: 'Reconocimiento computerizado del patrón de manchas para la foto-identificación de meros en reservas marinas: ¿una herramienta prometedora?'
+  subtitle: Pedro Martínez Martínez
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2015-2016
+- title: Iniciativas de ciencia ciudadana en las áreas marinas protegidas de la Región de Murcia
+  subtitle: Víctor Orenes Salazar
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2016-2017
+- title: El fraccionamiento de la ración diaria mejora el crecimiento de la dorada pero implica mayor desperdicio de alimento
+  subtitle: Mª Dolores Granero Fernández
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutor: Felipe Aguado (IMIDA)'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2017-2018
+- title: Impacto del buceo recreativo en áreas marinas protegidas
+  subtitle: Lorena Carretero Sánchez
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2017-2018
+- title: 'Impacto de la pesca marítima de recreo desde costa: propuesta de protocolo para el muestreo, seguimiento y recogida de restos de artilugios de pesca'
+  subtitle: Daniel Sendra García
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2018-2019
+- title: 'Cogestión de pesquerías artesanales: el caso del chanquete (Aphia minuta) en la Región de Murcia'
+  subtitle: Elena Meroño Martínez
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2018-2019
+- title: 'Impacto de la pesca marítima de recreo desde costa: basuras marinas'
+  subtitle: Irene Morel Vera
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2019-2020
+- title: Relación entre la densidad de las especies de erizos (Paracentrotus lividus y Arbacia lixula) y la proliferación del coral Oculina patagonica en el sureste Mediterráneo
+  subtitle: Silvia Sánchez Segarra
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2020-2021
+- title: Primeros datos sobre la relación entre las abundancias de un coral invasor (Oculina patagonica) y de dos especies autóctonas de coral (Cladocora caespitosa y Balanophyllia europaea) en el litoral murciano
+  subtitle: Cristina Ramón Hernández
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2020-2021
+- title: Diversidad funcional del Orden Decapoda en el archipiélago de las Azores
+  subtitle: Paula Navarro García
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutora: Andrea (Zita) Botelho (UAç)'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2020-2021
+- title: La pesca artesanal en el entorno de la reserva marina de Cabo Tiñoso (Murcia, SE España)
+  subtitle: María de los Ángeles Trujillo Alarcón
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutora: Mar Torralva Forero'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2020-2021
+- title: La pesca del chanquete (Aphia minuta, Risso 1810) en el litoral murciano
+  subtitle: Miguel Ángel Cachafeiro Fanlo
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutor: Emilio Maria Dolores Pedrero'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2020-2021
+- title: Distribución y abundancia de litorinas en el litoral de la Región de Murcia
+  subtitle: Helena Casado Orta
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2021-2022
+- title: Respuesta ecofisiológica de Dendrophyllia ramea (Linnaeus, 1758) frente a condiciones de cambio climático
+  subtitle: Lucía Verdú Muñoz
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutora: Adriana Rodríguez Hernández (ULL)'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2021-2022
+- title: Seguimiento de la colonización por peces en un arrecife artificial experimental
+  subtitle: Encarnación Olivares Martínez
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutor: Víctor Orenes Salazar'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2022-2023
+- title: Seguimiento por BRUVS de peces en fondos rocosos profundos de Madeira
+  subtitle: Ana López Martos
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutor: João Monteiro (Universidade da Madeira & MARE, Portugal)'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2022-2023
+- title: Las poblaciones de especies amenazadas de peces en el litoral murciano
+  subtitle: Jorge Pastor Martínez
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutora: María Pozo Montoro'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2023-2024
+- title: 'Assessing elasmobranch diversity through a community science approach: A snapshot of species richness, distribution, and seasonal pattern along the coast of Murcia (Southeast Spain)'
+  subtitle: Elena Rossi
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutores: Massimo Ponti y María Pozo Montoro'
+  - icon: location-dot
+    label: Alma Mater Studiorum - Università di Bologna
+  - icon: calendar
+    label: Curso 2023-2024 (en realización)
+- title: Calidad de las comunidades bentónicas litorales de la reserva marina de Cabo de Palos - Islas Hormigas
+  subtitle: Aroa Gracia Díaz
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutor: Pedro Clemente Navarro Martínez'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2024-2025 (en realización)
+- title: 'Ciencia comunitaria para la observación de peces guitarra comunes y otras especies de elasmobranquios en el litoral murciano: recopilación y análisis de datos de captura por pescadores artesanales'
+  subtitle: Beatriz Fernández-Corredor García
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutora: Chary Vidal-Abarca Gutiérrez'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2024-2025 (en realización)
+- title: 'Ciencia comunitaria para la observación de peces guitarra comunes y otras especies de elasmobranquios en el litoral murciano: redes sociales'
+  subtitle: Paula del Campo Moya-Angeler
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: user
+    label: 'Co-tutora: María Pozo Montoro'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2024-2025 (en realización)
+- title: 'Ciencia comunitaria para la observación de peces guitarra comunes y otras especies de elasmobranquios en el litoral murciano: análisis de las observaciones realizadas por buceadores recreativos'
+  subtitle: Daniela de la Rocha Pérez
+  tags:
+  - icon: tag
+    label: 'Tipo: PFC/TFG'
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: Curso 2024-2025 (en realización)
 
 ---

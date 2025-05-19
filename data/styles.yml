@@ -1,6 +1,6 @@
 icons:
   type: solid
-  sharp: true
+  sharp: false
   emojis: false
   play: youtube-iframe
   up: chevrons-up
@@ -34,7 +34,7 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#005164' #8d1300
+    color: '#4461e1' #005164 #8d1300
     light: ''
     dark: ''
     contrast:

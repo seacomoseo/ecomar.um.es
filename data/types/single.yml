@@ -1,15 +1,18 @@
 title: Únicas
 order: 0
 base: single
+
 tpl:
   back:
     color: dark
   menu:
-    logo: false
+    logo: true
     sticky: auto
     size: ''
     show_sections: true
     show_modals: true
+    color: dark
+    image: logo-um.svg
   callnow:
     show: auto
   section:
@@ -19,3 +22,22 @@ tpl:
     div_x: false
   - color: white
     div_x: true
+
+params:
+
+- name: noticias
+  label: Noticias
+  widget: list
+  pages:
+  - _index
+  params:
+  - var: BOX_IMAGE_SRC
+  - var: BOX_TITLE
+  - var: BOX_MD
+  - var: BOX_BUTTON_LINK
+  - name: tags
+    lagel: Etiquetas
+    widget: list
+    params:
+    - var: TAG_ICON_ID
+    - var: TAG_LABEL
