@@ -16,4 +16,4 @@ box:
   md: hide
   label: Ver más
   button: hide
-  slider: true
+  # slider: true

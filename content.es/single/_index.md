@@ -121,6 +121,9 @@ grupo:
       <details>
         <summary>Detalles</summary>
         Obtuve mi doctorado en biología en la Universidad de Murcia, España (1999). Investigador post-doctoral en el CBETM (Centro de Biología y Ecología Tropical y Méditerranéenne – UMR 5244) de la EPHE-CNRS en Perpignan (Francia) bajo la supervisión del Dr. René Galzin (2001-2003) . Me convertí en profesor de ecología en la Universidad de Murcia en 2008. Mi investigación se centra en la ecología y conservación de los peces arrecifales, con especial énfasis en la ecología de las áreas marinas protegidas como herramienta para la gestión de la pesca y la conservación de la biodiversidad, y en la respuesta funcional de las comunidades a impactos antrópicos. Más recientemente, trabajo además, en la interfaz socio-ecológica de la gestión y la gobernanza de los recursos marinos, y en los efectos del cambio climático en las comunidades y ecosistemas marinos. He participado en numerosos proyectos de investigación a nivel nacional, europeo e internacional.
+
+        [hide](#)
+        {.display-none}
       </details>
     # accordions:
     # - title: Detalles
