@@ -15,6 +15,7 @@ tpl:
   - file: grupo
   - file: proyectos
   - file: contratos
+  - file: publicaciones
 
 base: organization
 organization:
@@ -429,7 +430,7 @@ proyectos:
     label: José A. García Charton
   - icon: link
     label: '[Financiación](https://portalinvestigacion.um.es/proyectos/1240705/detalle)'
-  # image: guitarporject.png
+  # image: guitarporject.webp
   # ratio: 16/9
 - title: Estado de CONservación de CORALes en el litoral de CarTagena
   subtitle: CONCORALCT

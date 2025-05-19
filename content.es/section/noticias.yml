@@ -8,7 +8,7 @@ params:
 #   max: 12
 box:
   cols: 4
-  color: invert
+  color: light
   inset: true
   ratio: 16/9
   hs: 6

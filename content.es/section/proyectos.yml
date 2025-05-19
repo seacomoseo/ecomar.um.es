@@ -1,19 +1,16 @@
 name: Proyectos
 title: Proyectos
-md: '[[Financiación]](https://portalinvestigacion.um.es/financiaciones?grupoId=31934)'
+md: '[[Financiaciones]](https://portalinvestigacion.um.es/financiaciones?grupoId=31934)'
 # icon: circle-info
 box:
   cols: 3
-  color: invert
+  color: light
   alpha: .5
   inset: true
   ratio: 2/1
   ratio: 1
   hs: 5
-  # tag: space
   label: Ver más
-  # button: hide
-  # align_y: top
 params:
 - page: proyectos
   box: boxes

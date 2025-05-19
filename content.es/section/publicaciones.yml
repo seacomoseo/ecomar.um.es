@@ -1,0 +1,18 @@
+name: Publicaciones
+title: Publicaciones
+subtitle: Tesis doctorales, de máster y trabajos fin de carrera dirigidos
+md: '[[Ver Publicaciones]](https://portalinvestigacion.um.es/grupos/31934/publicaciones)'
+# icon: circle-info
+color: light
+box:
+  cols: 3
+  color: similar
+  alpha: .5
+  inset: true
+  ratio: 2/1
+  ratio: 1
+  hs: 5
+  label: Ver más
+params:
+- page: publicaciones
+  box: boxes

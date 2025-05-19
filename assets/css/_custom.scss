@@ -5,7 +5,5 @@
 #body-home #header {
   .image       { @include show-from(0); --show-from: scale(3); }
   .box__title  { @include show-from(1); }
-  .subtitle    { @include show-from(2); }
-  .md p        { @include show-from(3); }
-  .md .buttons { @include show-from(4); }
+  .md p        { @include show-from(2); }
 }
