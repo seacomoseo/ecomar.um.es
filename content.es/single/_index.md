@@ -66,22 +66,34 @@ organization:
   # services: []
 
 noticias:
-- title: La UMU refuerza su compromiso con el estudio del pez guitarra común y otras rayas y tiburones de la Región de Murcia
+- image: https://estaticos-cdn.prensaiberica.es/clip/efa40b1f-f0fe-4222-94f7-317344ccc262_16-9-discover-aspect-ratio_default_0.jpg
+  title: La UMU refuerza su compromiso con el estudio del pez guitarra común y otras rayas y tiburones de la Región de Murcia
   md: El grupo de investigación Ecología y Conservación Marina recibe financiación del Programa Pleamar de la Fundación Biodiversidad para continuar con el estudio del pez guitarra común, una especie de raya en peligro crítico de extinción...
   link: https://www.laopiniondemurcia.es/universidad-de-murcia/2025/03/18/umu-refuerza-compromiso-estudio-pez-115420294.html
-  image: https://estaticos-cdn.prensaiberica.es/clip/efa40b1f-f0fe-4222-94f7-317344ccc262_16-9-discover-aspect-ratio_default_0.jpg
-- title: El Observatorio de Gobernanza Marina de la UMU, premio Buen Gobierno de la CARM
+  tags:
+  - icon: calendar
+    label: 18/03/2025
+- image: https://www.um.es/documents/4749341/0/tamariu-coast-in-the-town-of-palafrugell-girona-2024-12-09-04-48-38-utc+%281%29.jpg
+  title: El Observatorio de Gobernanza Marina de la UMU, premio Buen Gobierno de la CARM
   md: La plataforma Observatorio de la Gobernanza Marina -OGMAR-, dirigida por investigadores de la Universidad de Murcia, ha sido galardonada en los Premios de Buen Gobierno, Participación Ciudadana, Modernización Administrativa y Atención a la ciudadanía 2024...
   link: https://www.um.es/web/sala-prensa/-/el-observatorio-de-gobernanza-marina-de-la-umu-premio-buen-gobierno-de-la-carm
-  image: https://www.um.es/documents/4749341/0/tamariu-coast-in-the-town-of-palafrugell-girona-2024-12-09-04-48-38-utc+%281%29.jpg
-- title: Cabo de Palos
+  tags:
+  - icon: calendar
+    label: 26/02/2025
+- image: https://elfarodeceuta.es/wp-content/uploads/2025/02/cabo-palos-septem-nostra-15-750x500.jpeg
+  title: Cabo de Palos
   md: La semana pasada hemos recibido la visita del Dr. Óscar Ocaña y parte de su equipo de la Fundación Museo del Mar de Ceuta, para estudiar el coralígeno de la reserva marina de Cabo de Palos - Islas Hormigas en el marco de los proyectos ConCoralCT y OBIOMA II. Confiamos en que este trabajo fructifique en futuras colaboraciones.
   link: https://elfarodeceuta.es/cabo-palos/
-  image: https://elfarodeceuta.es/wp-content/uploads/2025/02/cabo-palos-septem-nostra-15-750x500.jpeg
-- title: El papel de la mujer en el sector de la pesca
+  tags:
+  - icon: calendar
+    label: 08/02/2025
+- image: https://img2.rtve.es/a/16348991/?h=320
+  title: El papel de la mujer en el sector de la pesca
   md: El pasado 6 de diciembre, el programa "Españoles en la mar" de Radio Exterior de España emitió un monográfico sobre "El papel de la mujer en el sector de la pesca", en el que se habló de nuestro proyecto GuitarProtect con una entrevista a nuestra compañera María Pozo, a partir del minuto -28:40 (es decir, transcurridos unos 22 y pico minutos de programa), podéis escucharlo en el siguiente podcast:...
   link: https://www.rtve.es/play/audios/espanoles-en-la-mar/espanoles-mar-papel-mujer-sector-pesca/16348991/
-  image: https://img2.rtve.es/a/16348991/?h=320
+  tags:
+  - icon: calendar
+    label: 06/12/2024
 
 mision:
   image: base/icon.png
@@ -693,5 +705,10 @@ contratos:
   - icon: user
     label: José Antonio García Charton
 
+# publicaciones:
+# - title: Holi
+#   tags:
+#   - icon: location-dot
+#     label: Comunidad Autónoma de la Región de Murcia
 
 ---

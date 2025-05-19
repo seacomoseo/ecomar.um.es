@@ -34,7 +34,7 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#8d1300'
+    color: '#005164' #8d1300
     light: ''
     dark: ''
     contrast:
@@ -50,7 +50,7 @@ colors:
       in: true
       text: true
   cta:
-    color: '#005164'
+    color: ''
     light: ''
     dark: ''
     contrast:
