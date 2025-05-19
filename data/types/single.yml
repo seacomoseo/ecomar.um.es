@@ -13,6 +13,8 @@ tpl:
     show_modals: true
     color: dark
     image: logo-um.svg
+    title: ''
+    subtitle: ''
   callnow:
     show: auto
   section:
