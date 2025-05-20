@@ -2,31 +2,35 @@
 slug: inicio
 title: Inicio
 image: base/poster.jpg
-summary: Te damos la bienvenida a MEC, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
+summary: Te damos la bienvenida a ECOMARE, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
 translationKey: home
-seo: 'MEC: Ecología Marina y Conservación'
-description: Te damos la bienvenida a MEC, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
+seo: 'ECOMARE: Ecología y Conservación Marina'
+description: Te damos la bienvenida a ECOMARE, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
 
 tpl:
+  modal:
+    size: lg
   sections:
   - file: _header
-  - file: noticias
-  - file: mision
-  - file: grupo
-  - file: proyectos
-  - file: contratos
-  - file: publicaciones
+  - file: temas
+    modals:
+    # - file: noticias
+    # - file: mision
+    - file: grupo
+    - file: proyectos
+    - file: contratos
+    - file: publicaciones
 
 base: organization
 organization:
   types:
   - Organization
   names:
-  - Ecología Marina y Conservación
-  - ECOMAR
+  - Ecología y Conservación Marina
+  - ECOMARE
   - Marine Ecology and Conservation
   - MEC
-  description: Te damos la bienvenida a ECOMAR, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
+  description: Te damos la bienvenida a ECOMARE, el grupo de investigación de José A. García Charton de la Facultad de Biología de la Universidad de Murcia (España).
   # legal: null
   # nif: null
   # email: null
@@ -64,6 +68,11 @@ organization:
     #   close: 20:00
   # prices: €€
   # services: []
+
+header:
+  image: base/icon.png
+  title: Ecología y Conservación Marina
+  md: Te damos la bienvenida a **ECOMARE**, el grupo de investigación de José Antonio García Charton de la [Facultad de Biología](http://www.um.es/web/biologia/) de la [Universidad de Murcia](http://www.um.es/) (España)
 
 noticias:
 - image: https://estaticos-cdn.prensaiberica.es/clip/efa40b1f-f0fe-4222-94f7-317344ccc262_16-9-discover-aspect-ratio_default_0.jpg

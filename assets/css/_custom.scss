@@ -7,3 +7,9 @@
   .box__title  { @include show-from(1); }
   .md p        { @include show-from(2); }
 }
+#noticias {
+  max-width: 328px;
+  iframe {
+    height: 512px;
+  }
+}

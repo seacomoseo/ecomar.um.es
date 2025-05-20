@@ -11,7 +11,20 @@ tpl:
     es:
       image: base/icon.png
       title: Ecomar
-      subtitle: Ecología Marina y Conservación
+      subtitle: Ecología y Conservación Marina
+      items:
+      - label: Noticias
+        link: /#noticias
+      # - label: Misión y objetivos
+      #   link: /#mision
+      - label: Acerca del grupo
+        link: /#grupo
+      - label: Proyectos
+        link: /#proyectos
+      - label: Contratos
+        link: /#contratos
+      - label: Publicaciones
+        link: /#publicaciones
   callnow: {}
   section:
   - size: sm

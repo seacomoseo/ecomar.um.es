@@ -1,12 +1,25 @@
 name: Cabecera
 bg: fondo.jpg
 # full: true
-size: xs
+# size: xs
+box:
+  cols: 2
+  gap: 5
+  gap_vs: 2
+  align_y: center
 boxes:
-- image: base/icon.png
-  # fit: .25
-  # fit_vs: .5
-- title: Ecología Marina y Conservación
-  hs: 3
-  md: |
-    Te damos la bienvenida a **MEC**, el grupo de investigación de José Antonio García Charton de la [Facultad de Biología](http://www.um.es/web/biologia/) de la [Universidad de Murcia](http://www.um.es/) (España)
+- hs: 2
+  params:
+  - page: header.image
+    box: image
+  - page: header.title
+    box: title
+  - page: header.md
+    box: md
+
+- title: Misión y objetivos
+  align: left
+  hs: 4
+  params:
+  - page: mision.md
+    box: md

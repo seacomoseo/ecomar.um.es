@@ -1,0 +1,57 @@
+name: Temas
+# size: md
+box:
+  cols: 2
+  gap: 5
+  gap_vs: 2
+boxes:
+
+- id: noticias
+  title: Noticias
+  box:
+    gap: 1
+  boxes:
+  - md: |
+      <iframe
+        src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FMECResearch&tabs=timeline&width=328&height=1080&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+        width="498"
+        height="1080"
+        style="border:none;overflow:hidden"
+        scrolling="no"
+        frameborder="0"
+        allowfullscreen="true"
+        allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
+      ></iframe>
+
+- title: Secciones
+  box:
+    cols: 2
+    # color: light
+    # inset: true
+    # ratio: 16/9
+    card: true
+    rate: 1
+    pd: .5
+    # hs: 4
+    # label: Ver
+    # button: hide
+    # slider: true
+  boxes:
+  # - label: Noticias
+  #   link: '#noticias'
+  #   image: https://webs.um.es/jcharton/ecologiayconservacionmarina/wp-content/uploads/2015/12/cropped-IMG_5319a.jpg
+  # - label: Mision
+  #   link: '#mision'
+  #   image: https://webs.um.es/jcharton/ecologiayconservacionmarina/wp-content/uploads/2015/12/cropped-IMG_5305.jpg
+  - label: Grupo
+    link: '#grupo'
+    image: grupo.webp
+  - label: Proyectos
+    link: '#proyectos'
+    image: proyectos.webp
+  - label: Contratos
+    link: '#contratos'
+    image: contratos.webp
+  - label: Publicaciones
+    link: '#publicaciones'
+    image: publicaciones.webp

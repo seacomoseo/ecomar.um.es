@@ -1,4 +1,5 @@
 name: Noticias
+id: noticias
 title: Noticias
 params:
 - page: noticias
