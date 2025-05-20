@@ -5,7 +5,7 @@ subtitle: con empresas y administraciones
 # icon: circle-info
 box:
   cols: 3
-  color: light
+  color: white
   alpha: .5
   inset: true
   ratio: 2/1

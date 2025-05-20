@@ -11,7 +11,7 @@ boxes:
   - title: Actuales
   - box:
       cols: 3
-      color: light
+      color: white
       inset: true
       ratio: 1
       hs: 5
@@ -21,7 +21,7 @@ boxes:
       box: boxes
   - box:
       cols: 3
-      color: light
+      color: white
       hs: 6
       # slider: true
     params:
@@ -32,7 +32,7 @@ boxes:
   - title: Visitantes
   - box:
       cols: 3
-      color: light
+      color: white
       inset: true
       ratio: 1
       hs: 5
@@ -45,7 +45,7 @@ boxes:
   - title: Anteriores
   - box:
       cols: 3
-      color: light
+      color: white
       inset: true
       ratio: 1
       hs: 5

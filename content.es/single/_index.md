@@ -74,38 +74,8 @@ header:
   title: Ecología y Conservación Marina
   md: Te damos la bienvenida a **ECOMARE**, el grupo de investigación de José Antonio García Charton de la [Facultad de Biología](http://www.um.es/web/biologia/) de la [Universidad de Murcia](http://www.um.es/) (España)
 
-noticias:
-- image: https://estaticos-cdn.prensaiberica.es/clip/efa40b1f-f0fe-4222-94f7-317344ccc262_16-9-discover-aspect-ratio_default_0.jpg
-  title: La UMU refuerza su compromiso con el estudio del pez guitarra común y otras rayas y tiburones de la Región de Murcia
-  md: El grupo de investigación Ecología y Conservación Marina recibe financiación del Programa Pleamar de la Fundación Biodiversidad para continuar con el estudio del pez guitarra común, una especie de raya en peligro crítico de extinción...
-  link: https://www.laopiniondemurcia.es/universidad-de-murcia/2025/03/18/umu-refuerza-compromiso-estudio-pez-115420294.html
-  tags:
-  - icon: calendar
-    label: 18/03/2025
-- image: https://www.um.es/documents/4749341/0/tamariu-coast-in-the-town-of-palafrugell-girona-2024-12-09-04-48-38-utc+%281%29.jpg
-  title: El Observatorio de Gobernanza Marina de la UMU, premio Buen Gobierno de la CARM
-  md: La plataforma Observatorio de la Gobernanza Marina -OGMAR-, dirigida por investigadores de la Universidad de Murcia, ha sido galardonada en los Premios de Buen Gobierno, Participación Ciudadana, Modernización Administrativa y Atención a la ciudadanía 2024...
-  link: https://www.um.es/web/sala-prensa/-/el-observatorio-de-gobernanza-marina-de-la-umu-premio-buen-gobierno-de-la-carm
-  tags:
-  - icon: calendar
-    label: 26/02/2025
-- image: https://elfarodeceuta.es/wp-content/uploads/2025/02/cabo-palos-septem-nostra-15-750x500.jpeg
-  title: Cabo de Palos
-  md: La semana pasada hemos recibido la visita del Dr. Óscar Ocaña y parte de su equipo de la Fundación Museo del Mar de Ceuta, para estudiar el coralígeno de la reserva marina de Cabo de Palos - Islas Hormigas en el marco de los proyectos ConCoralCT y OBIOMA II. Confiamos en que este trabajo fructifique en futuras colaboraciones.
-  link: https://elfarodeceuta.es/cabo-palos/
-  tags:
-  - icon: calendar
-    label: 08/02/2025
-- image: https://img2.rtve.es/a/16348991/?h=320
-  title: El papel de la mujer en el sector de la pesca
-  md: El pasado 6 de diciembre, el programa "Españoles en la mar" de Radio Exterior de España emitió un monográfico sobre "El papel de la mujer en el sector de la pesca", en el que se habló de nuestro proyecto GuitarProtect con una entrevista a nuestra compañera María Pozo, a partir del minuto -28:40 (es decir, transcurridos unos 22 y pico minutos de programa), podéis escucharlo en el siguiente podcast...
-  link: https://www.rtve.es/play/audios/espanoles-en-la-mar/espanoles-mar-papel-mujer-sector-pesca/16348991/
-  tags:
-  - icon: calendar
-    label: 06/12/2024
-
 mision:
-  image: base/icon.png
+  # image: base/icon.png
   md: |
     El trabajo del grupo abarca distintos ámbitos de investigación:
 
@@ -118,6 +88,36 @@ mision:
     - Servicio de gobernanza marina, evaluación y conservación de ecosistemas marinos.
 
     Nuestra investigación se realiza principalmente en el Mar Mediterráneo sudoccidental y sus AMPs, con especial atención a las de Cabo de Palos -- Islas Hormigas y Cabo Tiñoso. También participamos en diferentes proyectos en otros sectores del Mar Mediterráneo y  América del Sur.
+
+# noticias:
+# - image: https://estaticos-cdn.prensaiberica.es/clip/efa40b1f-f0fe-4222-94f7-317344ccc262_16-9-discover-aspect-ratio_default_0.jpg
+#   title: La UMU refuerza su compromiso con el estudio del pez guitarra común y otras rayas y tiburones de la Región de Murcia
+#   md: El grupo de investigación Ecología y Conservación Marina recibe financiación del Programa Pleamar de la Fundación Biodiversidad para continuar con el estudio del pez guitarra común, una especie de raya en peligro crítico de extinción...
+#   link: https://www.laopiniondemurcia.es/universidad-de-murcia/2025/03/18/umu-refuerza-compromiso-estudio-pez-115420294.html
+#   tags:
+#   - icon: calendar
+#     label: 18/03/2025
+# - image: https://www.um.es/documents/4749341/0/tamariu-coast-in-the-town-of-palafrugell-girona-2024-12-09-04-48-38-utc+%281%29.jpg
+#   title: El Observatorio de Gobernanza Marina de la UMU, premio Buen Gobierno de la CARM
+#   md: La plataforma Observatorio de la Gobernanza Marina -OGMAR-, dirigida por investigadores de la Universidad de Murcia, ha sido galardonada en los Premios de Buen Gobierno, Participación Ciudadana, Modernización Administrativa y Atención a la ciudadanía 2024...
+#   link: https://www.um.es/web/sala-prensa/-/el-observatorio-de-gobernanza-marina-de-la-umu-premio-buen-gobierno-de-la-carm
+#   tags:
+#   - icon: calendar
+#     label: 26/02/2025
+# - image: https://elfarodeceuta.es/wp-content/uploads/2025/02/cabo-palos-septem-nostra-15-750x500.jpeg
+#   title: Cabo de Palos
+#   md: La semana pasada hemos recibido la visita del Dr. Óscar Ocaña y parte de su equipo de la Fundación Museo del Mar de Ceuta, para estudiar el coralígeno de la reserva marina de Cabo de Palos - Islas Hormigas en el marco de los proyectos ConCoralCT y OBIOMA II. Confiamos en que este trabajo fructifique en futuras colaboraciones.
+#   link: https://elfarodeceuta.es/cabo-palos/
+#   tags:
+#   - icon: calendar
+#     label: 08/02/2025
+# - image: https://img2.rtve.es/a/16348991/?h=320
+#   title: El papel de la mujer en el sector de la pesca
+#   md: El pasado 6 de diciembre, el programa "Españoles en la mar" de Radio Exterior de España emitió un monográfico sobre "El papel de la mujer en el sector de la pesca", en el que se habló de nuestro proyecto GuitarProtect con una entrevista a nuestra compañera María Pozo, a partir del minuto -28:40 (es decir, transcurridos unos 22 y pico minutos de programa), podéis escucharlo en el siguiente podcast...
+#   link: https://www.rtve.es/play/audios/espanoles-en-la-mar/espanoles-mar-papel-mujer-sector-pesca/16348991/
+#   tags:
+#   - icon: calendar
+#     label: 06/12/2024
 
 grupo:
   actuales:
@@ -268,220 +268,6 @@ grupo:
     md: v.sandoval.canovas@gmail.com 
 
 proyectos:
-- title: Mecanismos de REcuperación de DEpredadores apicales en áreas marinas protegidas MEDiterráneas
-  subtitle: REDEMED
-  md:  Programa Estatal de Investigación, Desarrollo e Innovación Orientada a los Retos de la Sociedad, Plan Estatal de Investigación Científica y Técnica y de Innovación 2013-2016, Ministerio de Economía y Competitividad - CGL2013-49039-R
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2014-2018
-  - icon: circle-euro
-    label: 122 000,00 €
-  - icon: user
-    label: José Antonio García Charton
-  - icon: link
-    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/583966/detalle)'
-- title: Abundancia, selección de hábitat, síndromes de comportamiento y pautas de conectividad en depredadores apicales marinos mediterráneos
-  subtitle: ABHACO2DE
-  md: Fundación Séneca
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2015-2018
-  - icon: circle-euro
-    label: 80 960,00 €
-  - icon: user
-    label: José Antonio García Charton
-- title: Organización de un simposio sobre pesca marítima recreativa y lanzamiento de un código de buenas prácticas para la pesca marina recreativa en España
-  subtitle: proyecto SICORE
-  md: Fundación Biodiversidad, Programa PLEAMAR 2017
-  tags:
-  - icon: calendar
-    label: 2017-2018
-  - icon: circle-euro
-    label: 46 368,09 €
-  - icon: user
-    label: Pablo Pita Orduna
-- title: Advancing marine conservation in the European and contiguous seas
-  subtitle: MarCons
-  md: Acción COST CA15121
-  tags:
-  - icon: calendar
-    label: 2017-2019
-  - icon: user
-    label: Stelios Katsanevakis
-  - icon: link
-    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/584331/detalle)'
-- title: Estrategia de gobernanza para los espacios marinos de la Red Natura 2000
-  md: Life Intemares
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2018-2019
-  - icon: circle-euro
-    label: 50 000,00 €
-  - icon: user
-    label: 'Pedro Noguera Méndez & María Semitiel García'
-  - icon: link
-    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/585393/detalle)'
-- title: 'Centinelas del Mar: ciencia ciudadana para el seguimiento de los efectos del cambio climático sobre la biodiversidad marina'
-  md: Fundación Biodiversidad
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2018-2019
-  - icon: circle-euro
-    label: 46 690,00 €
-  - icon: user
-    label: José A. García Charton
-  - icon: link
-    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/585424/detalle)'
-- title: Papel de los muelles y diques del PUerto de Cartagena para el REclutamiento de juveniles y como HÁBITAT de adultos de peces de fondos rocosos
-  subtitle: PUREHABITAT
-  md: Cátedra de Medio Ambiente - Autoridad Portuaria de Cartagena - Campus Mare Nostrum
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2019
-  - icon: circle-euro
-    label: 18 148,79 €
-  - icon: user
-    label: José A. García Charton
-  - icon: link
-    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/585758/detalle)'
-- title: Characterization of Marine Recreational Fisheries around Cabo de Palos -Islas Hormigas marine reserve
-  subtitle: MaReFish
-  md: MedPAN
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2019-2020
-  - icon: circle-euro
-    label: 15 000,00 €
-  - icon: user
-    label: José A. García Charton
-  - icon: link
-    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/586038/detalle)'
-- title: 'Centinelas del Mar II: Elaboración y desarrollo de un programa de seguimiento de la biodiversidad marina en áreas marinas protegidas de Murcia y Almería basado en ciencia ciudadana'
-  md: Fundación Biodiversidad
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2020-2021
-  - icon: circle-euro
-    label: 35 685,00 €
-  - icon: user
-    label: José A. García Charton
-  - icon: link
-    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/586181/detalle)'
-- title: Estudio del poblamiento de peces en fondos rocosos MESOFÓTIcos en el entorno del Puerto de CarTagena
-  subtitle: MESOFOTICT
-  md: Cátedra de Medio Ambiente - Autoridad Portuaria de Cartagena - Campus Mare Nostrum
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2022
-  - icon: circle-euro
-    label: 18 148,79 €
-  - icon: user
-    label: José A. García Charton
-  - icon: link
-    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/587202/detalle)'
-- title: Observatorio de la Gobernanza Marina
-  subtitle: OGMAR
-  md: ThinkInAzul - Plan Complementario de I+D+i en Ciencias Marinas - 2022
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2023
-  - icon: circle-euro
-    label: 36 000,00 €
-  - icon: user
-    label: María Semitiel García
-  - icon: link
-    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/1240663/detalle)'
-- title: ECOlogía y COnservación de peces de arrecifes MESOfóticos MEDiterráneos
-  subtitle: ECo2MesoMed
-  md: Fundación Séneca 22049/PI/22
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2023-2025
-  - icon: circle-euro
-    label: 106 700,00 €
-  - icon: user
-    label: José A. García Charton
-- title: Ciencia ciudadana y participación en OGMAR
-  subtitle: CIPAO
-  md: ThinkInAzul - Plan Complementario de I+D+i en Ciencias Marinas - 2023
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2024
-  - icon: circle-euro
-    label: 34 000,00 €
-  - icon: user
-    label: María Semitiel García
-  - icon: link
-    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/587616/detalle)'
-- title: Red de telemetría acústica y vigilancia ciudadana para los últimos tiburones guitarra del Mediterráneo occidental
-  subtitle: GUITARPROTECT
-  md: |
-    ThinkInAzul - Plan Complementario de I+D+i en Ciencias Marinas - 2023
-
-    [[:instagram: GuitarProtect]](https://www.instagram.com/project.guitarprotect/)
-
-    Este proyecto, mediante el uso de telemtría acústica, busca entender los factores ambientales y del hábitat que han permitido la supervivencia del pez guitarra en la Región de Murcia.
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2024
-  - icon: circle-euro
-    label: 29 942,00 €
-  - icon: user
-    label: José A. García Charton
-  - icon: link
-    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/1240705/detalle)'
-  # image: guitarporject.webp
-  # ratio: 16/9
-- title: Estado de CONservación de CORALes en el litoral de CarTagena
-  subtitle: CONCORALCT
-  md: Cátedra de Medio Ambiente - Autoridad Portuaria de Cartagena - Campus Mare Nostrum
-  tags:
-  - icon: location-dot
-    label: Universidad de Murcia
-  - icon: calendar
-    label: 2024
-  - icon: circle-euro
-    label: 17 250,00 €
-  - icon: user
-    label: José A. García Charton
-- title: Padrões ambientais multiescala na determinação de assembleias de peixes marinhos em ambientes recifais - Multiscale environmental patterns determine marine fish assemblages in reef habitats
-  subtitle: MEPFish
-  md: MCTI/CNPq nº 14/2023 - Apoio a Projetos Internacionais de Pesquisa Científica, Tecnológica e de Inovação
-  tags:
-  - icon: location-dot
-    label: Universidade Federal do Sul de Bahía (Brasl)
-  - icon: calendar
-    label: 2024-2025
-  - icon: circle-euro
-    label: 316 935,92 R$ (59 044,52 € a 29/12/2023)
-  - icon: user
-    label: Carlos W. Hackradt
-  - icon: link
-    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/757446/detalle)'
 - title: Hábitat, distribución y movilidad de peces GUITARra y otros Elasmobranquios costeROs
   subtitle: GUITAR-HERO
   md: |
@@ -513,23 +299,373 @@ proyectos:
     label: 22 100,00 €
   - icon: user
     label: María Semitiel García
+- title: Padrões ambientais multiescala na determinação de assembleias de peixes marinhos em ambientes recifais - Multiscale environmental patterns determine marine fish assemblages in reef habitats
+  subtitle: MEPFish
+  md: MCTI/CNPq nº 14/2023 - Apoio a Projetos Internacionais de Pesquisa Científica, Tecnológica e de Inovação
+  tags:
+  - icon: location-dot
+    label: Universidade Federal do Sul de Bahía (Brasl)
+  - icon: calendar
+    label: 2024-2025
+  - icon: circle-euro
+    label: 316 935,92 R$ (59 044,52 € a 29/12/2023)
+  - icon: user
+    label: Carlos W. Hackradt
+  - icon: link
+    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/757446/detalle)'
+- title: Estado de CONservación de CORALes en el litoral de CarTagena
+  subtitle: CONCORALCT
+  md: Cátedra de Medio Ambiente - Autoridad Portuaria de Cartagena - Campus Mare Nostrum
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2024
+  - icon: circle-euro
+    label: 17 250,00 €
+  - icon: user
+    label: José A. García Charton
+- title: Red de telemetría acústica y vigilancia ciudadana para los últimos tiburones guitarra del Mediterráneo occidental
+  subtitle: GUITARPROTECT
+  md: |
+    ThinkInAzul - Plan Complementario de I+D+i en Ciencias Marinas - 2023
+
+    [[:instagram: GuitarProtect]](https://www.instagram.com/project.guitarprotect/)
+
+    Este proyecto, mediante el uso de telemtría acústica, busca entender los factores ambientales y del hábitat que han permitido la supervivencia del pez guitarra en la Región de Murcia.
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2024
+  - icon: circle-euro
+    label: 29 942,00 €
+  - icon: user
+    label: José A. García Charton
+  - icon: link
+    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/1240705/detalle)'
+- title: Ciencia ciudadana y participación en OGMAR
+  subtitle: CIPAO
+  md: ThinkInAzul - Plan Complementario de I+D+i en Ciencias Marinas - 2023
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2024
+  - icon: circle-euro
+    label: 34 000,00 €
+  - icon: user
+    label: María Semitiel García
+  - icon: link
+    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/587616/detalle)'
+- title: ECOlogía y COnservación de peces de arrecifes MESOfóticos MEDiterráneos
+  subtitle: ECo2MesoMed
+  md: Fundación Séneca 22049/PI/22
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2023-2025
+  - icon: circle-euro
+    label: 106 700,00 €
+  - icon: user
+    label: José A. García Charton
+- title: Observatorio de la Gobernanza Marina
+  subtitle: OGMAR
+  md: ThinkInAzul - Plan Complementario de I+D+i en Ciencias Marinas - 2022
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2023
+  - icon: circle-euro
+    label: 36 000,00 €
+  - icon: user
+    label: María Semitiel García
+  - icon: link
+    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/1240663/detalle)'
+- title: Estudio del poblamiento de peces en fondos rocosos MESOFÓTIcos en el entorno del Puerto de CarTagena
+  subtitle: MESOFOTICT
+  md: Cátedra de Medio Ambiente - Autoridad Portuaria de Cartagena - Campus Mare Nostrum
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2022
+  - icon: circle-euro
+    label: 18 148,79 €
+  - icon: user
+    label: José A. García Charton
+  - icon: link
+    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/587202/detalle)'
+- title: 'Centinelas del Mar II: Elaboración y desarrollo de un programa de seguimiento de la biodiversidad marina en áreas marinas protegidas de Murcia y Almería basado en ciencia ciudadana'
+  md: Fundación Biodiversidad
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2020-2021
+  - icon: circle-euro
+    label: 35 685,00 €
+  - icon: user
+    label: José A. García Charton
+  - icon: link
+    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/586181/detalle)'
+- title: Characterization of Marine Recreational Fisheries around Cabo de Palos -Islas Hormigas marine reserve
+  subtitle: MaReFish
+  md: MedPAN
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2019-2020
+  - icon: circle-euro
+    label: 15 000,00 €
+  - icon: user
+    label: José A. García Charton
+  - icon: link
+    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/586038/detalle)'
+- title: Papel de los muelles y diques del PUerto de Cartagena para el REclutamiento de juveniles y como HÁBITAT de adultos de peces de fondos rocosos
+  subtitle: PUREHABITAT
+  md: Cátedra de Medio Ambiente - Autoridad Portuaria de Cartagena - Campus Mare Nostrum
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2019
+  - icon: circle-euro
+    label: 18 148,79 €
+  - icon: user
+    label: José A. García Charton
+  - icon: link
+    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/585758/detalle)'
+- title: 'Centinelas del Mar: ciencia ciudadana para el seguimiento de los efectos del cambio climático sobre la biodiversidad marina'
+  md: Fundación Biodiversidad
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2018-2019
+  - icon: circle-euro
+    label: 46 690,00 €
+  - icon: user
+    label: José A. García Charton
+  - icon: link
+    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/585424/detalle)'
+- title: Estrategia de gobernanza para los espacios marinos de la Red Natura 2000
+  md: Life Intemares
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2018-2019
+  - icon: circle-euro
+    label: 50 000,00 €
+  - icon: user
+    label: 'Pedro Noguera Méndez & María Semitiel García'
+  - icon: link
+    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/585393/detalle)'
+- title: Advancing marine conservation in the European and contiguous seas
+  subtitle: MarCons
+  md: Acción COST CA15121
+  tags:
+  - icon: calendar
+    label: 2017-2019
+  - icon: user
+    label: Stelios Katsanevakis
+  - icon: link
+    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/584331/detalle)'
+- title: Organización de un simposio sobre pesca marítima recreativa y lanzamiento de un código de buenas prácticas para la pesca marina recreativa en España
+  subtitle: proyecto SICORE
+  md: Fundación Biodiversidad, Programa PLEAMAR 2017
+  tags:
+  - icon: calendar
+    label: 2017-2018
+  - icon: circle-euro
+    label: 46 368,09 €
+  - icon: user
+    label: Pablo Pita Orduna
+- title: Abundancia, selección de hábitat, síndromes de comportamiento y pautas de conectividad en depredadores apicales marinos mediterráneos
+  subtitle: ABHACO2DE
+  md: Fundación Séneca
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2015-2018
+  - icon: circle-euro
+    label: 80 960,00 €
+  - icon: user
+    label: José Antonio García Charton
+- title: Mecanismos de REcuperación de DEpredadores apicales en áreas marinas protegidas MEDiterráneas
+  subtitle: REDEMED
+  md:  Programa Estatal de Investigación, Desarrollo e Innovación Orientada a los Retos de la Sociedad, Plan Estatal de Investigación Científica y Técnica y de Innovación 2013-2016, Ministerio de Economía y Competitividad - CGL2013-49039-R
+  tags:
+  - icon: location-dot
+    label: Universidad de Murcia
+  - icon: calendar
+    label: 2014-2018
+  - icon: circle-euro
+    label: 122 000,00 €
+  - icon: user
+    label: José Antonio García Charton
+  - icon: link
+    label: '[Financiación](https://portalinvestigacion.um.es/proyectos/583966/detalle)'
 
 
 contratos:
-- title: Developement of Marine and Coastal Protected Areas (MPAs) in the Republic of Montenegro
+- title: Estudios sobre las reservas marinas de Cabo de Palos-Islas Hormigas y Cabo Tiñoso
   tags:
   - icon: location-dot
-    label: UNEP/MAP - SAP BIO
+    label: Comunidad Autónoma de la Región de Murcia
   - icon: calendar
-    label: 2012
+    label: 2024
+  - icon: circle-euro
+    label: 37 000,00 €
   - icon: user
-    label: RAC/SPA
-- title: Proposal of indicators of impact of climate change on Mediterranean marine biodiversity
+    label: José Antonio García Charton
+- title: Estudios sobre las reservas marinas de Cabo de Palos-Islas Hormigas y Cabo Tiñoso
+  tags:
+  - icon: location-dot
+    label: Comunidad Autónoma de la Región de Murcia
+  - icon: calendar
+    label: 2023
+  - icon: circle-euro
+    label: 45 000,00 €
+  - icon: user
+    label: José Antonio García Charton
+- title: Asistencia técnica para el proyecto Verificación de la red de control y seguimiento de la calidad de las aguas litorales para el seguimiento del estado de las masas de agua costeras en la Región de Murcia
+  tags:
+  - icon: location-dot
+    label: Taxon SL
+  - icon: calendar
+    label: 2022-2023
+  - icon: user
+    label: José Antonio García Charton
+- title: Estudios sobre las reservas marinas de Cabo de Palos-Islas Hormigas y Cabo Tiñoso
+  tags:
+  - icon: location-dot
+    label: Comunidad Autónoma de la Región de Murcia
+  - icon: calendar
+    label: 2022
+  - icon: circle-euro
+    label: 45 000,00 €
+  - icon: user
+    label: José Antonio García Charton
+- title: Estudios sobre las reservas marinas de Cabo de Palos-Islas Hormigas y Cabo Tiñoso
+  tags:
+  - icon: location-dot
+    label: Comunidad Autónoma de la Región de Murcia
+  - icon: calendar
+    label: 2020-2021
+  - icon: circle-euro
+    label: 45 000,00 €
+  - icon: user
+    label: José Antonio García Charton
+- title: Censo de peces vulnerables en las reservas marinas de Tagomago (Ibiza) y Punta de Sa Creu (Formentera)
+  tags:
+  - icon: location-dot
+    label: Tragsatec - Contrato nº 67452
+  - icon: calendar
+    label: 2020-2021
+  - icon: circle-euro
+    label: 55 000,00 €
+  - icon: user
+    label: José Antonio García Charton
+- title: Estudio de la biocenosis marina de la Zona de Conservación Prioritaria de la Isla Grosa e islote del Farallón, ZEC ES620029 "Franja Litoral de la Región de Murcia
+  tags:
+  - icon: location-dot
+    label: Comunidad Autónoma de la Región de Murcia
+  - icon: calendar
+    label: 2020
+  - icon: circle-euro
+    label: 17 939,46 €
+  - icon: user
+    label: José Antonio García Charton
+- title: Asistencia técnica para el desarrollo del proyecto MarTeRa - SeaMoBB en litoral murciano
+  tags:
+  - icon: location-dot
+    label: Taxon SL
+  - icon: calendar
+    label: 2019-2020
+  - icon: circle-euro
+    label: 56 306,67 €
+  - icon: user
+    label: José Antonio García Charton
+- title: Estudios sobre las reservas marinas de Cabo de Palos-Islas Hormigas y Cabo Tiñoso
+  tags:
+  - icon: location-dot
+    label: Comunidad Autónoma de la Región de Murcia
+  - icon: calendar
+    label: 2019-2020
+  - icon: circle-euro
+    label: 22 000,00 €
+  - icon: user
+    label: José Antonio García Charton
+- title: Estudios sobre las reservas marinas de Cabo de Palos-Islas Hormigas y Cabo Tiñoso
+  tags:
+  - icon: location-dot
+    label: Comunidad Autónoma de la Región de Murcia
+  - icon: calendar
+    label: 2018
+  - icon: circle-euro
+    label: 22 000,00 €
+  - icon: user
+    label: José Antonio García Charton
+- title: Asistencia técnica para el desarrollo del proyecto FishMPABlue2 en la reserva marina de Cabo de Palos - Islas Hormigas
+  tags:
+  - icon: location-dot
+    label: WWF-España
+  - icon: calendar
+    label: 2017-2018
+  - icon: circle-euro
+    label: 10 000,00 €
+  - icon: user
+    label: José Antonio García Charton
+- title: Estudios sobre la reserva marina de Cabo de Palos-Islas Hormigas
+  tags:
+  - icon: location-dot
+    label: Comunidad Autónoma de la Región de Murcia
+  - icon: calendar
+    label: 2017
+  - icon: circle-euro
+    label: 30 000,00 €
+  - icon: user
+    label: José Antonio García Charton
+- title: Pescados con Arte
+  tags:
+  - icon: location-dot
+    label: Ayuntamiento de Cartagena
+  - icon: calendar
+    label: 2017
+  - icon: user
+    label: Carmen Molina / Asociación Columbares
+- title: 'Asesoría técnica para el seguimiento de los arrecifes de Dendropoma lebeche (hábitat 1170): Cartografía y valoración del estado de las poblaciones en el litoral de Murcia'
+  tags:
+  - icon: location-dot
+    label: Comunidad Autónoma de la Región de Murcia
+  - icon: calendar
+    label: 2016-2019
+  - icon: user
+    label: 'Miguel Ángel Esteve Selma & José Antonio García Charton'
+- title: Estudios sobre la reserva marina de Cabo de Palos-Islas Hormigas
+  tags:
+  - icon: location-dot
+    label: Comunidad Autónoma de la Región de Murcia
+  - icon: calendar
+    label: 2016
+  - icon: circle-euro
+    label: 30 000,00 €
+  - icon: user
+    label: José Antonio García Charton
+- title: Identification and Streamlining of Climate Change Impact Indicators in Three Specially Protected Areas of Mediterranean Importance (SPAMI)
   tags:
   - icon: location-dot
     label: UNEP/MAP - SAP BIO
   - icon: calendar
-    label: 2012
+    label: 2015
+  - icon: circle-euro
+    label: 6 000,00 €
   - icon: user
     label: RAC/SPA
 - title: Estudios sobre la reserva marina de Cabo de Palos-Islas Hormigas
@@ -537,7 +673,7 @@ contratos:
   - icon: location-dot
     label: Comunidad Autónoma de la Región de Murcia
   - icon: calendar
-    label: 2012-2013
+    label: 2015
   - icon: circle-euro
     label: 37 000,00 €
   - icon: user
@@ -557,165 +693,28 @@ contratos:
   - icon: location-dot
     label: Comunidad Autónoma de la Región de Murcia
   - icon: calendar
-    label: 2015
+    label: 2012-2013
   - icon: circle-euro
     label: 37 000,00 €
   - icon: user
     label: José Antonio García Charton
-- title: Identification and Streamlining of Climate Change Impact Indicators in Three Specially Protected Areas of Mediterranean Importance (SPAMI)
+- title: Proposal of indicators of impact of climate change on Mediterranean marine biodiversity
   tags:
   - icon: location-dot
     label: UNEP/MAP - SAP BIO
   - icon: calendar
-    label: 2015
-  - icon: circle-euro
-    label: 6 000,00 €
+    label: 2012
   - icon: user
     label: RAC/SPA
-- title: Estudios sobre la reserva marina de Cabo de Palos-Islas Hormigas
+- title: Developement of Marine and Coastal Protected Areas (MPAs) in the Republic of Montenegro
   tags:
   - icon: location-dot
-    label: Comunidad Autónoma de la Región de Murcia
+    label: UNEP/MAP - SAP BIO
   - icon: calendar
-    label: 2016
-  - icon: circle-euro
-    label: 30 000,00 €
+    label: 2012
   - icon: user
-    label: José Antonio García Charton
-- title: 'Asesoría técnica para el seguimiento de los arrecifes de Dendropoma lebeche (hábitat 1170): Cartografía y valoración del estado de las poblaciones en el litoral de Murcia'
-  tags:
-  - icon: location-dot
-    label: Comunidad Autónoma de la Región de Murcia
-  - icon: calendar
-    label: 2016-2019
-  - icon: user
-    label: 'Miguel Ángel Esteve Selma & José Antonio García Charton'
-- title: Pescados con Arte
-  tags:
-  - icon: location-dot
-    label: Ayuntamiento de Cartagena
-  - icon: calendar
-    label: 2017
-  - icon: user
-    label: Carmen Molina / Asociación Columbares
-- title: Estudios sobre la reserva marina de Cabo de Palos-Islas Hormigas
-  tags:
-  - icon: location-dot
-    label: Comunidad Autónoma de la Región de Murcia
-  - icon: calendar
-    label: 2017
-  - icon: circle-euro
-    label: 30 000,00 €
-  - icon: user
-    label: José Antonio García Charton
-- title: Asistencia técnica para el desarrollo del proyecto FishMPABlue2 en la reserva marina de Cabo de Palos - Islas Hormigas
-  tags:
-  - icon: location-dot
-    label: WWF-España
-  - icon: calendar
-    label: 2017-2018
-  - icon: circle-euro
-    label: 10 000,00 €
-  - icon: user
-    label: José Antonio García Charton
-- title: Estudios sobre las reservas marinas de Cabo de Palos-Islas Hormigas y Cabo Tiñoso
-  tags:
-  - icon: location-dot
-    label: Comunidad Autónoma de la Región de Murcia
-  - icon: calendar
-    label: 2018
-  - icon: circle-euro
-    label: 22 000,00 €
-  - icon: user
-    label: José Antonio García Charton
-- title: Estudios sobre las reservas marinas de Cabo de Palos-Islas Hormigas y Cabo Tiñoso
-  tags:
-  - icon: location-dot
-    label: Comunidad Autónoma de la Región de Murcia
-  - icon: calendar
-    label: 2019-2020
-  - icon: circle-euro
-    label: 22 000,00 €
-  - icon: user
-    label: José Antonio García Charton
-- title: Asistencia técnica para el desarrollo del proyecto MarTeRa - SeaMoBB en litoral murciano
-  tags:
-  - icon: location-dot
-    label: Taxon SL
-  - icon: calendar
-    label: 2019-2020
-  - icon: circle-euro
-    label: 56 306,67 €
-  - icon: user
-    label: José Antonio García Charton
-- title: Estudio de la biocenosis marina de la Zona de Conservación Prioritaria de la Isla Grosa e islote del Farallón, ZEC ES620029 "Franja Litoral de la Región de Murcia
-  tags:
-  - icon: location-dot
-    label: Comunidad Autónoma de la Región de Murcia
-  - icon: calendar
-    label: 2020
-  - icon: circle-euro
-    label: 17 939,46 €
-  - icon: user
-    label: José Antonio García Charton
-- title: Censo de peces vulnerables en las reservas marinas de Tagomago (Ibiza) y Punta de Sa Creu (Formentera)
-  tags:
-  - icon: location-dot
-    label: Tragsatec - Contrato nº 67452
-  - icon: calendar
-    label: 2020-2021
-  - icon: circle-euro
-    label: 55 000,00 €
-  - icon: user
-    label: José Antonio García Charton
-- title: Estudios sobre las reservas marinas de Cabo de Palos-Islas Hormigas y Cabo Tiñoso
-  tags:
-  - icon: location-dot
-    label: Comunidad Autónoma de la Región de Murcia
-  - icon: calendar
-    label: 2020-2021
-  - icon: circle-euro
-    label: 45 000,00 €
-  - icon: user
-    label: José Antonio García Charton
-- title: Estudios sobre las reservas marinas de Cabo de Palos-Islas Hormigas y Cabo Tiñoso
-  tags:
-  - icon: location-dot
-    label: Comunidad Autónoma de la Región de Murcia
-  - icon: calendar
-    label: 2022
-  - icon: circle-euro
-    label: 45 000,00 €
-  - icon: user
-    label: José Antonio García Charton
-- title: Asistencia técnica para el proyecto Verificación de la red de control y seguimiento de la calidad de las aguas litorales para el seguimiento del estado de las masas de agua costeras en la Región de Murcia
-  tags:
-  - icon: location-dot
-    label: Taxon SL
-  - icon: calendar
-    label: 2022-2023
-  - icon: user
-    label: José Antonio García Charton
-- title: Estudios sobre las reservas marinas de Cabo de Palos-Islas Hormigas y Cabo Tiñoso
-  tags:
-  - icon: location-dot
-    label: Comunidad Autónoma de la Región de Murcia
-  - icon: calendar
-    label: 2023
-  - icon: circle-euro
-    label: 45 000,00 €
-  - icon: user
-    label: José Antonio García Charton
-- title: Estudios sobre las reservas marinas de Cabo de Palos-Islas Hormigas y Cabo Tiñoso
-  tags:
-  - icon: location-dot
-    label: Comunidad Autónoma de la Región de Murcia
-  - icon: calendar
-    label: 2024
-  - icon: circle-euro
-    label: 37 000,00 €
-  - icon: user
-    label: José Antonio García Charton
+    label: RAC/SPA
+
 
 publicaciones:
 - title: Estructura genética de las poblaciones de Diplodus sargus en el SE peninsular en relación con la protección de áreas marinas
