@@ -1,8 +1,10 @@
 footer:
-  # color: main-dark
   social: []
   md: |
     [![Universidad de Murcia](logo-um.svg)](/)
 
-    Avda. Teniente Flomesta, 5 · 30003 · Murcia \
-    Teléfono: [+34 868 88 3000](tel:+34868883000) (Centralita) / [+34 868 88 8888](tel:+34868888888) (Información)
+    :location-dot: Avda. Teniente Flomesta, 5 · 30003 · Murcia
+
+    - :phone: [+34 868 88 3000](tel:+34868883000) (Centralita)
+    - :phone: [+34 868 88 8888](tel:+34868888888) (Información)
+    {.list-inline}

@@ -38,8 +38,9 @@ params:
   - var: BOX_MD
   - var: BOX_BUTTON_LINK
   - name: tags
-    lagel: Etiquetas
+    label: Etiquetas
     widget: list
     params:
-    - var: TAG_ICON_ID
-    - var: TAG_LABEL
+    - var: BOX_ICON_ID
+      default: calendar
+    - var: BOX_TAGS_LABEL
