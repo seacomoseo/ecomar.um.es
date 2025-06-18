@@ -10,7 +10,7 @@ tpl:
     size: sm
     es:
       image: base/icon.png
-      title: Ecomar
+      title: Ecomare
       subtitle: Ecología y Conservación Marina
       items:
       - label: Noticias

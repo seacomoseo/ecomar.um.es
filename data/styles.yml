@@ -8,14 +8,15 @@ icons:
   left: ''
   right: ''
 fonts:
-  google: true
   base:
+    google: true
     family: IBM Plex Sans
     weight: 400
     bold: 700
     italic: false
     line_height: 1.25
   cursive:
+    google: true
     family: IBM Plex Sans
     weight: 400
     bold: 0
@@ -24,8 +25,9 @@ fonts:
     size: 1
     top: 0
   title:
+    google: true
     family: IBM Plex Sans
-    weight: 900
+    weight: 700
     bold: 0
     italic: false
     line_height: 1.25
@@ -48,7 +50,7 @@ colors:
     contrast:
       fill: true
       in: true
-      text: true
+      text: false
   cta:
     color: ''
     light: ''

@@ -1,5 +1,6 @@
 name: Cabecera
 bg: fondo.jpg
+parallax: fix
 # full: true
 # size: xs
 box:

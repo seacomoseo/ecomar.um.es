@@ -1,9 +1,9 @@
 langs:
 - lang: es
-  title: Ecomar
+  title: Ecomare
   description: ''
   google_analytics: G-F1DT0ZTK3T
-  # main_organization: /ecomar/
+  # main_organization: /ecomare/
 cms:
   logo: base/icon.png
 others:
