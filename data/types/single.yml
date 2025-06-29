@@ -3,7 +3,7 @@ order: 0
 base: single
 
 tpl:
-  back:
+  bg:
     color: dark
   menu:
     logo: true

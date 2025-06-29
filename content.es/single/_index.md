@@ -21,8 +21,8 @@ tpl:
     - file: contratos
     - file: publicaciones
 
-base: organization
-organization:
+base: org
+org:
   types:
   - Organization
   names:
@@ -37,7 +37,7 @@ organization:
   logo: base/icon.svg
   images:
   - base/poster.jpg
-  social:
+  as:
   - https://www.facebook.com/MECResearch
   - https://portalinvestigacion.um.es/grupos/31934/detalle
   # phones: []
